@@ -1,0 +1,9 @@
+# Local task state and account secrets
+.eli-engine/
+.env
+.env.*
+*.token
+*.key
+__pycache__/
+*.pyc
+.DS_Store
